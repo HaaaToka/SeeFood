@@ -1,6 +1,6 @@
 # SeeFood
 
-In this project, my goup mate and I built Food Calories Estimation System using with machine learning methods.
+In this project, my group mates and I built Food Calories Estimation System using with machine learning methods.
 
 ![](giphy.gif)
 
